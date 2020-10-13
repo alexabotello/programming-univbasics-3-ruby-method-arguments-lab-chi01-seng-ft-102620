@@ -2,7 +2,7 @@ def introduction (name)
   put "Hi my name is #{name}."
 end
 
-greeting(Josh, Dan)
+greeting(Josh)
 
 
 
